@@ -20,7 +20,8 @@ print(big_message[0:4])
 #
 print(sorted(big_message))
 
-#metodos
+###METODOS
+
 #transformar em minusculo
 print(my_message.lower())
 
