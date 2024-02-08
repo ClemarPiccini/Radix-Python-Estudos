@@ -15,8 +15,8 @@ print(hello_func_arg('Hi', name = 'Junior'))
 #funcao um pouco mais complexa
 
 def student_info(*args, **kwargs):
-    print(args)
-    print(kwargs)
+    print(args) # tupla
+    print(kwargs) # lista
 
 courses = ['Math', 'Art']
 info = {'name': 'John', 'age': 22}
