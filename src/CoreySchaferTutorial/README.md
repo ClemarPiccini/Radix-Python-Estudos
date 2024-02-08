@@ -2,7 +2,7 @@ https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6
 
 ver aulas:
 
-26 (parsing files) -  
+26 (parsing files) - ok  
 27 (random) -  
 28 (parser csv) -  
 29 (parser names) -  
