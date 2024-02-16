@@ -4,8 +4,8 @@ ver aulas:
 
 26 (parsing files) - ok  
 27 (random) - ok  
-28 (parser csv) - 
-29 (parser names) -  
+28 (parser csv) - ok  
+29 (parser names) - ok  
 30 (regex) -  
 31 (try except) -  
 32 (duck typing) -  
