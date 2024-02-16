@@ -6,12 +6,12 @@ ver aulas:
 27 (random) - ok  
 28 (parser csv) - ok  
 29 (parser names) - ok  
-30 (regex) -  
-31 (try except) -  
-32 (duck typing) -  
-33 (set python ambient variable) -  
-35 (f-string) -  
-36 (generator) -  
+30 (regex) - ok  
+31 (try except) - ok  
+32 (duck typing) - ok  
+33 (set python ambient variable) - ok  
+35 (f-string) - ok  
+36 (generator) - ok  
 https://www.youtube.com/watch?v=kr0mpwqttM0 (first-class functions) -  
 https://www.youtube.com/watch?v=swU3c34d2NQ (clousures) -  
 37 (decorators) -  
