@@ -1,11 +1,10 @@
-'''
 Instalação do Pipenv
 
 Se você ainda não tem o Pipenv instalado, pode instalar usando o pip:
 
 ```pip install pipenv```
 
-Criando um novo projeto com Pipenv
+Criando um novo projeto com Pipenv  
 
 Para criar um novo projeto e inicializar um ambiente virtual com o Pipenv, você pode fazer o seguinte:
 
@@ -43,4 +42,3 @@ Você pode definir scripts personalizados no arquivo Pipfile para realizar taref
 ```pipenv run start```
 
 Isso executará o script start definido no Pipfile.
-'''
