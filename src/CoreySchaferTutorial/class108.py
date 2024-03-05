@@ -47,7 +47,7 @@ except StopIteration:
 
 #Importando com * (Wildcard) - Evite importar tudo de um módulo usando o * wildcard. Em vez disso, importe funções, classes ou constantes específicas que você precisa usar para manter seu código limpo e legível.
 # Errado
-from module import *
+#from module import *
 
 # Correto
-from module import function_name
+#from module import function_name
