@@ -4,11 +4,11 @@ https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6
 
 60 - Else Clauses on Loops - ok  
 63 - Ex Machina Easter Egg - ok  
-76 - Sets - Set Methods and Operations - 
-92 - Itertools
-100 - Requests
-104 - 10 python tips and tricks
-108 - 5 common python mistakes
+76 - Sets - Set Methods and Operations - ok 
+92 - Itertools - ok 
+100 - Requests - ok 
+104 - 10 python tips and tricks - ok 
+108 - 5 common python mistakes - ok 
 109 - clarifying the issues with mutable defaults
 122 - Subprocess
 123 - Difference between "==" and "is"
