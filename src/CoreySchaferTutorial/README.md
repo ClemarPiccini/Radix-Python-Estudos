@@ -12,5 +12,5 @@ https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6
 109 - clarifying the issues with mutable defaults - ok 
 122 - Subprocess - ok
 123 - Difference between "==" and "is" - ok
-124 - Threading - 
+124 - Threading - ok  
 125 - Multiprocessing - 
